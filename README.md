@@ -26,13 +26,13 @@ The app calculates BMI based on user input (height and weight) and displays cate
 ## Screenshots
 
 ### Splash Screen
-![Home Screen](assets\splash.jpeg)
+![Home Screen](assets/splash.jpeg)
 
 ### Input Screen
-![Input Screen](assets\input.jpeg)
+![Input Screen](assets/input.jpeg)
 
 ### Result Screen
-![Result Screen](assets\result.jpeg)
+![Result Screen](assets/result.jpeg)
 
 ---
 
